@@ -7,7 +7,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 
-	"keywords": ["dark", "darktheme", "html", "css", "javascript", "web", "blacktheme"],
+	"keywords": ["dark", "darktheme", "html", "css", "javascript", "web", "blacktheme", "dark theme"],
 	"author": "Vansh Bhardwaj",
 	"license": "ISC"
 }

@@ -1,3 +1,5 @@
+### Get dark/light theme for your web projects
+
 # 1. Installation
 
 Goto terminal and install darktheme using command
